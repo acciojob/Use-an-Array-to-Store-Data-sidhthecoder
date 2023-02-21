@@ -1,3 +1,9 @@
 
-let yourArray=["Name",1,true,'c',3.14];
-document.getElementById("show").innerHTML =yourArray;
+const yourArray = {
+  String: "John",
+  String: "Doe",
+  Number: 50,
+  boolean: true,
+  Number:60;
+};
+document.getElementById("show").textContent =person;
