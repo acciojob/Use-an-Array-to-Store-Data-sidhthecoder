@@ -6,4 +6,4 @@ const yourArray = {
   boolean: true,
   Number:60;
 };
-document.getElementById("show").textContent =person;
+document.getElementById("show").textContent =yourArray;
